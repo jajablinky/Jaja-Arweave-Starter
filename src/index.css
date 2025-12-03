@@ -1,22 +1,18 @@
 @import "tailwindcss";
 
 @theme {
-  /* Custom Colors */
   --color-bg-primary: var(--bg-primary);
   --color-blank-color: var(--blank-color);
   --color-text-primary: var(--text-primary);
   --color-text-secondary: var(--text-secondary);
 
-  /* Custom Breakpoints */
   --breakpoint-xs: 375px;
 
-  /* Custom Border Radius */
   --radius-4xl: 2rem;
   --radius-5xl: 2.5rem;
   --radius-6xl: 3rem;
   --radius-7xl: 3.5rem;
 
-  /* Custom Font Sizes */
   --text-base: clamp(0.7rem, 1.5vw, 1rem);
   --text-base2: clamp(0.7rem, 1.5vw, 0.9rem);
   --text-heading: clamp(0.9rem, 1.5vw, 1.25rem);
@@ -25,11 +21,9 @@
   --text-small-detail: clamp(0.5rem, 1.25vw, 0.6rem);
   --text-button: clamp(0.6rem, 1.5vw, 0.7rem);
 
-  /* Custom Font Families */
   --font-roboto-mono: "Roboto Mono", monospace;
   --font-dm-sans: "DM Sans", sans-serif;
 
-  /* Custom Animations */
   --animate-bounce-inf: bounceInf 1s ease-out infinite;
   --animate-bounce1: bounce1 1s ease-out 1;
 }
