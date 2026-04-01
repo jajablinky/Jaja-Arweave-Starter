@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "arweave": {
+      "source": "permaweb/skills",
+      "sourceType": "github",
+      "computedHash": "17b757350f4118350ff3f2e5fda6993131dca2b1b76c61582f327186ca0366c5"
+    },
+    "monitor": {
+      "source": "permaweb/skills",
+      "sourceType": "github",
+      "computedHash": "61913d5396dd7d240e8204f8170e31b3e197c4310e552c3f696d2db81b831804"
+    },
+    "neo-minimal-permaweb-ui": {
+      "source": "jajablinky/neo-minimal-permaweb-design-skill",
+      "sourceType": "github",
+      "computedHash": "9def24771ea7924bc45d2cc55057c93b030a1b309a02e7ac9813e703589e7e57"
+    }
+  }
+}
